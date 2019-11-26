@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="second">Second</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="lucky_number_hint">Enter your lucky number</string>
+    <string name="reply">Reply:</string>
+    <string name="send">Send</string>
+    <string name="message">Message:</string>
+    <string name="lucky_number">Lucky Number:</string>
+    <string name="reply_hint">Enter your reply</string>
+    <string name="done">Done</string>
+</resources>
